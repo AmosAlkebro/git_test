@@ -1,0 +1,1 @@
+This is Amos's first git project!
